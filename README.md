@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Service**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ayyubs-projects.vercel.app/](link website portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-ayyubs-projects.vercel.app](link website portfolio)
 
 - 📫 How to reach me **https://www.instagram.com/al_ayyubi.29/**
 
